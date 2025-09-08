@@ -1,0 +1,6 @@
+@devroutine_HostAddress = http://localhost:5212
+
+GET {{devroutine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
